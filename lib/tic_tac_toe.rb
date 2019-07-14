@@ -97,6 +97,8 @@ class TicTacToe
       won? || draw? || full? ? true : false
     end
     
-    
+    def winner
+      
+      
       
       
