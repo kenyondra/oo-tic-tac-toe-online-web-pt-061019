@@ -70,3 +70,4 @@ class TicTacToe
     end
     
     
+    def won
