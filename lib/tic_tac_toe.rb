@@ -45,4 +45,4 @@ class TicTacToe
     end
     
     def turn 
-      
+      puts 
