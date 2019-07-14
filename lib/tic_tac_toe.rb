@@ -75,5 +75,6 @@ class TicTacToe
       board_empty = @board.none? { |i| i == "X" || i = "O"}
       if board_empty
         false
+      else
         
       
