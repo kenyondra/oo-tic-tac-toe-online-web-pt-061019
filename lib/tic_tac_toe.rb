@@ -28,4 +28,4 @@ class TicTacToe
     end
     
     def position_taken?(position)
-      if @board
+      if @board[position]
