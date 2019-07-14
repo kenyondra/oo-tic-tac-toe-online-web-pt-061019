@@ -98,7 +98,8 @@ class TicTacToe
     end
     
     def winner
-      WIN_COMBINATIONS.detect 
+      WIN_COMBINATIONS.detect do |combo|
+        
       
       
       
