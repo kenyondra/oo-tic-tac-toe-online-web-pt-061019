@@ -72,4 +72,4 @@ class TicTacToe
     
     def won?
       
-      board_empty = @board
+      board_empty = @board.none? 
