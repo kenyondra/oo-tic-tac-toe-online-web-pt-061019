@@ -35,3 +35,4 @@ class TicTacToe
       end
     end
     
+    def valid
