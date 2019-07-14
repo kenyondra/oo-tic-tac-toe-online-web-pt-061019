@@ -90,6 +90,6 @@ class TicTacToe
     end
     
     def draw?
-      
+      !won? 
       
       
