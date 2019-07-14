@@ -72,4 +72,4 @@ class TicTacToe
     
     def won?
       
-      board
+      board_empty 
