@@ -109,7 +109,8 @@ class TicTacToe
       end
     end
     
-    
+    def play 
+      until
       
       
       
