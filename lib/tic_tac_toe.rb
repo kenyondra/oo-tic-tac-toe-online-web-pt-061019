@@ -98,7 +98,7 @@ class TicTacToe
     end
     
     def winner
-      
+      WIN_COMBINATIONS.detect 
       
       
       
