@@ -76,5 +76,5 @@ class TicTacToe
       if board_empty
         false
       else
-        WIN_COMBINATIONS 
+        WIN_COMBINATIONS.each do 
       
