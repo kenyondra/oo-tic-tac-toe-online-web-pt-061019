@@ -55,4 +55,5 @@ class TicTacToe
       display_board
     end
     
-    
+    def turn_count 
+      
