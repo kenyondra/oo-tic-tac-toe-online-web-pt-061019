@@ -51,4 +51,5 @@ class TicTacToe
         move(input, current_player)
       else
         turn
-        
+      end
+      
