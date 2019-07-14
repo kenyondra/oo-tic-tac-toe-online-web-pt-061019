@@ -77,5 +77,5 @@ class TicTacToe
         false
       else
         WIN_COMBINATIONS.each do |combo|
-          if @board
+          if @board[combo]
       
