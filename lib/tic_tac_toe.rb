@@ -76,5 +76,6 @@ class TicTacToe
       if board_empty
         false
       else
-        WIN_COMBINATIONS.each do 
+        WIN_COMBINATIONS.each do |combo|
+          
       
