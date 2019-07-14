@@ -72,5 +72,6 @@ class TicTacToe
     
     def won?
       
-      board_empty = @board.none? { |i| i == "X" || i = "O"
+      board_empty = @board.none? { |i| i == "X" || i = "O"}
+      
       
