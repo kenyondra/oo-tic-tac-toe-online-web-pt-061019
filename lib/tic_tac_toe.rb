@@ -86,5 +86,5 @@ class TicTacToe
     end
     
     def full?
-      @board.all? { |i| i =="X"  
+      @board.all? { |i| i =="X" ||  
       
