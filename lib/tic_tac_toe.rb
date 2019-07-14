@@ -31,4 +31,5 @@ class TicTacToe
       if @board[position] == "X" || @board[position] == "0"
         true 
       else
+        false 
         
