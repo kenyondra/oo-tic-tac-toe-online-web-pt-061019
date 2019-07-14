@@ -115,7 +115,7 @@ class TicTacToe
     end
     
     if won?
-      
+      puts 
       
       
       
