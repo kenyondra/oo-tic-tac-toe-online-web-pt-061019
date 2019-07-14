@@ -77,5 +77,5 @@ class TicTacToe
         false
       else
         WIN_COMBINATIONS.each do |combo|
-          if @board[combo[0]] == "X" && @board[combo[1]] == "X" && @board[combo[]]
+          if @board[combo[0]] == "X" && @board[combo[1]] == "X" && @board[combo[2]]
       
