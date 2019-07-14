@@ -99,7 +99,7 @@ class TicTacToe
     
     def winner
       WIN_COMBINATIONS.detect do |combo|
-        
+        if @board
       
       
       
